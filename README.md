@@ -1,4 +1,4 @@
-# admin-finder
+# PANEL FINDER BY S4NJI AND PHILIPPINE CYBER SECURITY COMMINITY
 
 Multi-threaded admin finder written in python by Philippine Cyber Community
 
