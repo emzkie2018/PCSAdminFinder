@@ -1,5 +1,16 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
+mess = """#############################################
+
+#                                           #
+#      [÷]PHILIPPINE CYBER SECURITY[÷]      #
+#                                           #
+#            (ADMIN PANEL FINDER)           #
+#                ./By S4nj1                 #
+############################################# """
+
+print mess
+
 
 from __future__ import division
 import Queue
